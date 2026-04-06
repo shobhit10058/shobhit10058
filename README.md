@@ -1,8 +1,13 @@
-### Hi there 👋  I'm Shobhit Gupta,
-My tech journey has been diverse, dabbling in frontend, backend, and mobile app development. I'm currently learning about prompt engineering and fascinating ChatGPT integrations.
+### Hi there 👋 I'm Shobhit Gupta
 
-![Portfolio](https://shobhit10058.github.io/Portfolio/)
+  Senior Backend Engineer with 3+ years of experience building high-performance distributed systems. From scaling APIs
+  to 10M+ calls/month at Wayground to architecting Kafka-based microservices handling 1M+ requests/day at Sprinklr.
+  Currently building real-time Voice AI at Dialflo. IIT Kharagpur graduate.
 
-🤝 I'm always open to collaborations and discussions about potential opportunities. Feel free to connect with me or drop an email at shobhit.gupta.iitkgp58@gmail.com . Let's explore how we can create innovative software solutions together!
+  🌐 **[Portfolio](https://shobhit10058.github.io/Portfolio/)** | 💼
+  **[LinkedIn](https://www.linkedin.com/in/shobhit-iitkgp/)** | 📧 **rkgupta462gkp@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=shobhit10058)
+  🤝 I'm always open to collaborations and discussions about potential opportunities. Feel free to connect with me or
+  drop an email. Let's explore how we can create innovative software solutions together!
+
+  ![](https://komarev.com/ghpvc/?username=shobhit10058)
