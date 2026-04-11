@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Shobhit Gupta
 
-  Senior Backend Engineer with 3+ years of experience building high-performance distributed systems. From scaling APIs
-  to 10M+ calls/month at Wayground to architecting Kafka-based microservices handling 1M+ requests/day at Sprinklr.
+  Senior Backend Engineer with 3+ years of experience building high-performance distributed systems.
   Currently building real-time Voice AI. IIT Kharagpur graduate.
 
   🌐 **[Portfolio](https://shobhit10058.github.io/Portfolio/)** | 💼
